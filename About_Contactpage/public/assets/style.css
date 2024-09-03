@@ -1,0 +1,49 @@
+.about-h {
+  background-image: url("./Images/About-head.png");
+}
+
+.about-content {
+  height: 550px;
+}
+
+.cont-mission {
+  width: 550px;
+}
+
+.cont-vision {
+  width: 550px;
+}
+
+.about-process {
+  height: 200px;
+}
+
+.card-h {
+  height: 290px;
+}
+
+.about-form {
+  background-image: url("./Images/Rectangle-60.png");
+  border-radius: 0;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ab-cont{
+    
+}
+
+.cardc {
+  width: 280px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.contact-form {
+  height: 120vh;
+  background-image: url("./Images/Form_bg.png");
+  background-size: 100vw 150vh;
+}
+
+.form-btn {
+  background-color: #005642;
+}
